@@ -17,4 +17,6 @@
 }
 .box-green{
     background-color: #00e165;
+    border: 1px solid #006cfa;
+    font-size: 14px;
 }
