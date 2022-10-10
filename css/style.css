@@ -1,1 +1,20 @@
 @import url(12bool.css);
+
+
+/*---------------------------
+    BOX STYLE
+----------------------------- */
+.box{
+    padding: 10px;
+    border: 1px solid #fff;
+    color: #fff;
+    text-align: center;
+}
+    
+
+.box-blue{
+    background-color: #006cfa;
+}
+.box-green{
+    background-color: #00e165;
+}
